@@ -1,30 +1,33 @@
-# AIM MATERIALS PROJECT
+# Aim Materials
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Aim Materials is a physics-enforced machine learning platform that generates novel inorganic crystal materials and validates them using a first-principles pipeline.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/kenneth-kims-projects-738e1c0f/v0-academic-paper-hero)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/rsHmS34IR2q)
+Candidate structures are generated across multi-element composition spaces and evaluated through Density Functional Theory (DFT), including structure optimization, electronic ground-state verification, and elastic property calculations. The platform is designed for publication-grade provenance and transparent reporting.
 
-## Overview
+Live site: [aimmaterials.org](https://aimmaterials.org)
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+---
 
-## Deployment
+## Tech Stack
 
-Your project is live at:
+- **UI layout**: [v0.dev](https://v0.dev) (AI-generated Next.js/Tailwind scaffolding)
+- **Framework**: [Next.js 15](https://nextjs.org/) with `output: 'export'` for static site generation
+- **Styling**: Tailwind CSS v4 + shadcn/ui components
+- **Deployment**: GitHub Pages (static build via `pnpm build`)
 
-**[https://vercel.com/kenneth-kims-projects-738e1c0f/v0-academic-paper-hero](https://vercel.com/kenneth-kims-projects-738e1c0f/v0-academic-paper-hero)**
+---
 
-## Build your app
+## Contact
 
-Continue building your app on:
+**Sunwoo Lee**
+sunwoolee0530@gmail.com
 
-**[https://v0.app/chat/projects/rsHmS34IR2q](https://v0.app/chat/projects/rsHmS34IR2q)**
+---
 
-## How It Works
+## Web Developer
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+**Jihan Song**
+challengedbipolar@gmail.com
+
+**Gyunho Kim**
+ghkim887@gmail.com
